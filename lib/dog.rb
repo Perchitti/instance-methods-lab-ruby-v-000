@@ -11,5 +11,6 @@ end
 
 end
 
+Dog.new
 Dog.bark
 Dog.sit
